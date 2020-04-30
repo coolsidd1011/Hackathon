@@ -1,2 +1,3 @@
 # Hackathon
 Covid-19 affcted area
+A hackathon project on developing covid 19 affected locations...
